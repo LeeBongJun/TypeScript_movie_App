@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "typescript": "^5.7.2",
+    "vercel": "^39.2.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "vercel": "vercel dev"
+  }
+}
